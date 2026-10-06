@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%" />
+  <img src="[https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%](https://i.pinimg.com/736x/70/f2/44/70f244934f8e5585e43ac48c5f0f73b9.jpg)" />
 </p>
 
 <h2 align="center">
-  👋 ¡Hola, soy Denise! 
+   ♡ Denise Gimenez ♡
 </h2>
 
 <p align="center">
-  <b>Data Science & IA | Python • SQL • Power BI</b> 🚀
+  <b>Data Science & IA | Python • SQL • Power BI </b>
 </p>
 
 ---
 
-### 💻 whoami
+### 💻🎀 DeniseGz
 
-```yaml
-name: Denise
-focus: Data Science, Machine Learning & Business Intelligence
+```about me
+name: Denise Gimenez
+focus: Data Science, IA, Machine Learning, Deep Learning & Business Intelligence, ETL
 stack: [Python, SQL, Power BI, Pandas, Scikit-Learn, Git]
-passion: Transformar datos complejos en insights visuales y soluciones inteligentes
+passion: Diseñar modelos de datos inteligentes, automatizar flujos y extraer valor estratégico mediante analítica avanzada
