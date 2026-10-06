@@ -40,6 +40,7 @@
 ### 💻 denisegz
 
 ```bout me
+<div style="background-color: #FCE4EC; padding: 16px; border-radius: 8px; color: #3A1F2D;">
 name: Denise Gimenez
 career: Data Science & AI
 focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Business Intelligence, ETL, Data Engineering, Automation, NLP, Predictive Modeling.
