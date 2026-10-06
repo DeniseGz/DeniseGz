@@ -42,10 +42,8 @@
 <div style="background-color: #FCE4EC; padding: 16px; border-radius: 8px; color: #3A1F2D;">
 
 ```whoami
-> <div align="left">
-> <i>name: Denise Gimenez</i><br>
-> <i>career: Data Science & AI</i><br>
-> <i>focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Business Intelligence, ETL, Data Engineering, Automation, NLP, Predictive Modeling.</i><br>
-> <i>passion: Design intelligent data models, automate workflows, and extract strategic value through advanced analytics.</i><br>
-> <i>stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, PowerApps, Scikit-Learn, APIs, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git.</i>
-> </div>
+name: Denise Gimenez
+career: Data Science & AI
+focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Business Intelligence, ETL, Data Engineering, Automation, NLP, Predictive Modeling.
+passion: Design intelligent data models, automate workflows, and extract strategic value through advanced analytics.
+stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, PowerApps, Scikit-Learn, APIs, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git. 
