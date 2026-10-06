@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-F06292?style=flat&logo=googlesheets&logoColor=white" />
 </p>
 
-### 💻✦ denisegz
+### 💻 denisegz
 
 ```bout me
 name: Denise Gimenez
