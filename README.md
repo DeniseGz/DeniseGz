@@ -9,6 +9,12 @@
 <p align="center">
   <b>Data Science & IA | Python • SQL • Power BI </b>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/-00758F?style=for-the-badge&logo=sql&logoColor=pink" alt="SQL">
+  <img src="https://img.shields.io/badge/Python%20-34A853?style=for-the-badge&logo=googlesheets&logoColor=black" alt="Python">
+  <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=pink" alt="Power Query">
+</p>
 
 ---
 
