@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%](https://i.pinimg.com/736x/76/36/14/763614b9685be36de136080df5c50891.jpg)" />
+  <img src="[[https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%](https://i.pinimg.com/736x/76/36/14/763614b9685be36de136080df5c50891.jpg)](https://i.pinimg.com/736x/76/36/14/763614b9685be36de136080df5c50891.jpg)" />
 </p>
 
 <h2 align="center">
@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <b>Data Analyst & Data Science Student | Python • SQL • Power BI</b> 🚀
+  <b>✦ Data Analyst & Data Science Student | Python • SQL • Power BI ✦ </b> 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-F48FB1?style=flat&logo=python&logoColor=white" />
