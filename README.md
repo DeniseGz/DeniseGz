@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/92/19/90/921990674f77392734052f30e51439bf.gif" />
+  <img src="https://i.pinimg.com/originals/36/26/ee/3626ee872d53ab5b5abe686128c9bd62.gif" />
 </p>
 
 <h2 align="center">
@@ -41,7 +41,7 @@
 
 ```bout me
 name: Denise Gimenez
-focus: Data Science, AI, Machine Learning, Deep Learning & Business Intelligence, ETL
 career: Data Science & AI
-stack: [Python, SQL, Power BI, Pandas, Scikit-Learn, Databricks, BigQuery, n8n, Git]
-passion: Diseñar modelos de datos inteligentes, automatizar flujos y extraer valor estratégico mediante analítica avanzada.
+focus: [Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Business Intelligence, ETL, Data Engineering, Automation, NLP, Predictive Modeling]
+stack: [Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, PowerApps, Scikit-Learn, APIs, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git]
+passion: Design intelligent data models, automate workflows, and extract strategic value through advanced analytics.
