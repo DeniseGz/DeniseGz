@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%](https://i.pinimg.com/736x/76/36/14/763614b9685be36de136080df5c50891.jpg)](https://i.pinimg.com/736x/76/36/14/763614b9685be36de136080df5c50891.jpg)" />
+  <img src="https://i.pinimg.com/736x/76/36/14/763614b9685be36de136080df5c50891.jpg" />
 </p>
 
 <h2 align="center">
