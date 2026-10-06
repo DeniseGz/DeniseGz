@@ -1,27 +1,47 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%](https://i.pinimg.com/736x/70/f2/44/70f244934f8e5585e43ac48c5f0f73b9.jpg)" />
+  <img src="https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%" />
 </p>
 
 <h2 align="center">
-   ♡ Denise Gimenez ♡
+  👋 ¡Hola, soy Denise Gimenez! 
 </h2>
 
 <p align="center">
-  <b>Data Science & IA | Python • SQL • Power BI </b>
+  <b>Data Analyst & Data Science Student | Python • SQL • Power BI</b> 🚀
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/-00758F?style=for-the-badge&logo=sql&logoColor=pink" alt="SQL">
-  <img src="https://img.shields.io/badge/Python%20-34A853?style=for-the-badge&logo=googlesheets&logoColor=black" alt="Python">
-  <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=pink" alt="Power Query">
+  <img src="https://img.shields.io/badge/PYTHON-F48FB1?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-F8BBD0?style=flat&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIGQUERY-F06292?style=flat&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATABRICKS-EC407A?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPARK-F48FB1?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-F8BBD0?style=flat&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/NUMPY-F06292?style=flat&logo=numpy&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/POWER%20BI-EC407A?style=flat&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOOKER%20STUDIO-F48FB1?style=flat&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TABLEAU-F8BBD0?style=flat&logo=tableau&logoColor=black" />
+  <img src="https://img.shields.io/badge/POWERAPPS-F06292?style=flat&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-EC407A?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEMINI%20IA-F48FB1?style=flat&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8N-F8BBD0?style=flat&logo=n8n&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EXCEL-F06292?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TANGO%20GESTIÓN-EC407A?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F48FB1?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRELLO-F8BBD0?style=flat&logo=trello&logoColor=black" />
+  <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-F06292?style=flat&logo=googlesheets&logoColor=white" />
+</p>
 ---
 
-### 💻🎀 DeniseGz
+### 💻 denisegz
 
-```about me
+```bout me
 name: Denise Gimenez
 focus: Data Science, IA, Machine Learning, Deep Learning & Business Intelligence, ETL
-stack: [Python, SQL, Power BI, Pandas, Scikit-Learn, Git]
+stack: [Python, SQL, Power BI, Pandas, Scikit-Learn, Databricks, BigQuery, n8n, Git]
 passion: Diseñar modelos de datos inteligentes, automatizar flujos y extraer valor estratégico mediante analítica avanzada
