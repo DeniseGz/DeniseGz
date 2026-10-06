@@ -37,13 +37,13 @@
   <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-F06292?style=flat&logo=googlesheets&logoColor=white" />
 </p>
 
-### 💻 denisegz
+### 💻 about me
 
 <div style="background-color: #FCE4EC; padding: 16px; border-radius: 8px; color: #3A1F2D;">
 
-```bout me
-✦ name: Denise Gimenez
-✦ career: Data Science & AI
-✦ focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Business Intelligence, ETL, Data Engineering, Automation, NLP, Predictive Modeling.
-✦ passion: Design intelligent data models, automate workflows, and extract strategic value through advanced analytics.
-✦ stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, PowerApps, Scikit-Learn, APIs, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git.
+```whoami
+name: Denise Gimenez
+career: Data Science & AI
+focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Business Intelligence, ETL, Data Engineering, Automation, NLP, Predictive Modeling.
+passion: Design intelligent data models, automate workflows, and extract strategic value through advanced analytics.
+stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, PowerApps, Scikit-Learn, APIs, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git.
