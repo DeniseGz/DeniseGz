@@ -42,6 +42,6 @@
 ```bout me
 name: Denise Gimenez
 career: Data Science & AI
-focus: [Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Business Intelligence, ETL, Data Engineering, Automation, NLP, Predictive Modeling]
-stack: [Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, PowerApps, Scikit-Learn, APIs, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git]
+focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Business Intelligence, ETL, Data Engineering, Automation, NLP, Predictive Modeling.
 passion: Design intelligent data models, automate workflows, and extract strategic value through advanced analytics.
+stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, PowerApps, Scikit-Learn, APIs, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git.
