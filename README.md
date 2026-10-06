@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%" />
+  <img src="[https://raw.githubusercontent.com/platzi/platzi-profile/main/assets/header-dark.png" width="100%](https://i.pinimg.com/736x/76/36/14/763614b9685be36de136080df5c50891.jpg)" />
 </p>
 
 <h2 align="center">
-  👋 ¡Hola, soy Denise Gimenez! 
+   ✦ Denu ✦
 </h2>
 
 <p align="center">
@@ -36,12 +36,12 @@
   <img src="https://img.shields.io/badge/TRELLO-F8BBD0?style=flat&logo=trello&logoColor=black" />
   <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-F06292?style=flat&logo=googlesheets&logoColor=white" />
 </p>
----
 
 ### 💻 denisegz
 
 ```bout me
 name: Denise Gimenez
-focus: Data Science, IA, Machine Learning, Deep Learning & Business Intelligence, ETL
+focus: Data Science, AI, Machine Learning, Deep Learning & Business Intelligence, ETL
+career: Data Science & AI
 stack: [Python, SQL, Power BI, Pandas, Scikit-Learn, Databricks, BigQuery, n8n, Git]
-passion: Diseñar modelos de datos inteligentes, automatizar flujos y extraer valor estratégico mediante analítica avanzada
+passion: Diseñar modelos de datos inteligentes, automatizar flujos y extraer valor estratégico mediante analítica avanzada.
