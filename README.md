@@ -60,8 +60,8 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4e/36/78/4e367873544a21d33d1ded38d66b8c78.gif" width="40px">
+  <img src="https://i.pinimg.com/originals/4e/36/78/4e367873544a21d33d1ded38d66b8c78.gif" width="80px">
   <img src="https://img.shields.io/badge/ʚɞ_%20𝑌𝑜𝑢𝑟_𝑏𝑟𝑎𝑖𝑛_𝑖𝑠_𝑎_𝑚𝑒𝑠𝑠𝑦_𝑘𝑙𝑢𝑑𝑔𝑒_𝑜𝑓_𝑒𝑣𝑜𝑙𝑣𝑒𝑑_𝒉𝑒𝑢𝑟𝑖𝑠𝑡𝑖𝑐𝑠,_𝑛𝑜𝑡_𝑎_𝑡𝑟𝑢𝑡𝒉-𝑠𝑒𝑒𝑘𝑖𝑛𝑔_𝑚𝑎𝑐𝒉𝑖𝑛𝑒._𝐼𝑓_𝑦𝑜𝑢_𝑤𝑎𝑛𝑡_𝑡𝑜_𝑔𝑒𝑡_𝑐𝑙𝑜𝑠𝑒𝑟_𝑡𝑜_𝑟𝑒𝑎𝑙𝑖𝑡𝑦,_𝑦𝑜𝑢_𝒉𝑎𝑣𝑒_𝑡𝑜_𝑓𝑖𝑔𝒉𝑡_𝑦𝑜𝑢𝑟_𝑜𝑤𝑛_𝑤𝑖𝑟𝑖𝑛𝑔._ʚɞ-ffb6c1?style=for-the-badge&labelColor=ffb6c1&color=ffb6c1&logoColor=white" alt="Quote">
-  <img src="https://i.pinimg.com/originals/4e/36/78/4e367873544a21d33d1ded38d66b8c78.gif" width="40px">
+  <img src="https://i.pinimg.com/originals/4e/36/78/4e367873544a21d33d1ded38d66b8c78.gif" width="80px">
 </p>
 
