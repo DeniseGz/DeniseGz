@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-   ✦ Denise Gimenez ✦
+   ✦ *Denise Gimenez* ✦
 </h2>
 
 <p align="center">
