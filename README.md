@@ -51,4 +51,4 @@ stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker
 
 ---
 
-<span style="color: #ffb6c1;"> *Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring.* </span>
+<font color="#FFB6C1"><i> ʚɞ *Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring.* ʚɞ </i></font>
