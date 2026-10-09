@@ -61,8 +61,8 @@ stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker
   <table align="center" style="background-color: #ffb6c1; border-radius: 6px; padding: 6px 12px;">
     <tr>
       <td align="center" style="background-color: #ffb6c1; border: none;">
-        <span style="color: #ffffff; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px;">
-          ʚɞ * Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring. * ʚɞ
+        <span style="color: #ffb6c1; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px;">
+          ʚɞ *Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring.* ʚɞ
         </span>
       </td>
     </tr>
