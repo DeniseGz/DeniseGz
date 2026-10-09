@@ -49,9 +49,6 @@ passion: Architecting intelligent data ecosystems, deploying scalable AI/ML solu
 stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch, LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD
 ```
 
-```html
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/Your_brain_is_a_messy_kludge_of_evolved_heuristics,_not_a_truth--seeking_machine._If_you_want_to_get_closer_to_reality,_you_have_to_fight_your_own_wiring.-C71585?style=for-the-badge&logoColor=white&labelColor=C71585" alt="Quote"/>
-  </a>
-</p>
+---
+
+<span style="color: #ffb6c1;"> *Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring.* </span>
