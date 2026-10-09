@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-   ✦ *Denise Gimenez* ✦
+   ✦ Denise Gimenez ✦
 </h2>
 
 <p align="center">
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-F06292?style=flat&logo=googlesheets&logoColor=white" />
 </p>
 
-### 💻 about me
+### 💻 *about me*
 
 <div style="background-color: #FCE4EC; padding: 16px; border-radius: 8px; color: #3A1F2D;">
 
