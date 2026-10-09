@@ -42,21 +42,6 @@
 <div style="background-color: #FCE4EC; padding: 16px; border-radius: 8px; color: #3A1F2D;">
 
 ```whoami
-name: Denise Gimenez
-career: Data Science & AI
-focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Business Intelligence, ETL, Data Engineering, Workflow Automation, Advanced Analytics, NLP, Predictive Modeling
-passion: Architecting intelligent data ecosystems, deploying scalable AI/ML solutions, automating complex workflows, and transforming raw data into high-impact strategic decisions
-stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch, LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD
-```
-
----
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40px">
-  <img src="https://img.shields.io/badge/ʚɞ_%20Your_brain_is_a_messy_kludge_of_evolved_heuristics,_not_a_truth--seeking_machine._If_you_want_to_get_closer_to_reality,_you_have_to_fight_your_own_wiring._ʚɞ-ffb6c1?style=for-the-badge&labelColor=ffb6c1&color=ffb6c1&logoColor=white" alt="Quote">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40px">
-</p>
 <p align="center">
   <table align="center" style="background-color: #ffb6c1; border-radius: 8px; padding: 12px 16px;">
     <tr>
@@ -72,3 +57,14 @@ stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker
     </tr>
   </table>
 </p>
+```
+
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40px">
+  <img src="https://img.shields.io/badge/ʚɞ_%20Your_brain_is_a_messy_kludge_of_evolved_heuristics,_not_a_truth--seeking_machine._If_you_want_to_get_closer_to_reality,_you_have_to_fight_your_own_wiring._ʚɞ-ffb6c1?style=for-the-badge&labelColor=ffb6c1&color=ffb6c1&logoColor=white" alt="Quote">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40px">
+</p>
+
