@@ -58,16 +58,17 @@ stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker
   <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40px">
 </p>
 <p align="center">
-  <table align="center" style="background-color: #ffb6c1; border-radius: 6px; padding: 6px 12px;">
+  <table align="center" style="background-color: #ffb6c1; border-radius: 8px; padding: 12px 16px;">
     <tr>
-      <td align="center" style="background-color: #ffb6c1; border: none;">
-        <span style="color: #ffb6c1; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px;"
-          >name: Denise Gimenez.
-          career: Data Science & AI.
-          focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Business Intelligence, ETL, Data Engineering, Workflow Automation, Advanced Analytics, NLP, Predictive Modeling.
-          passion: Architecting intelligent data ecosystems, deploying scalable AI/ML solutions, automating complex workflows, and transforming raw data into high-impact strategic decisions.
-          stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch, LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD.
+      <td align="left" style="background-color: #ffb6c1; border: none;">
+        <span style="color: #ffffff; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; line-height: 1.6;">
+          ʚɞ <b>name:</b> Denise Gimenez<br>
+          <b>career:</b> Data Science & AI<br>
+          <b>focus:</b> Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Business Intelligence, ETL, Data Engineering, Workflow Automation, Advanced Analytics, NLP, Predictive Modeling<br>
+          <b>passion:</b> Architecting intelligent data ecosystems, deploying scalable AI/ML solutions, automating complex workflows, and transforming raw data into high-impact strategic decisions<br>
+          <b>stack:</b> Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch, LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD ʚɞ
         </span>
       </td>
     </tr>
   </table>
+</p>
