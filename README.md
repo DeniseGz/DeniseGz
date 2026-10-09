@@ -63,10 +63,11 @@ stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker
       <td align="center" style="background-color: #ffb6c1; border: none;">
         <span style="color: #ffb6c1; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px;">
           name: Denise Gimenez
-career: Data Science & AI
-focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Business Intelligence, ETL, Data Engineering, Workflow Automation, Advanced Analytics, NLP, Predictive Modeling
-passion: Architecting intelligent data ecosystems, deploying scalable AI/ML solutions, automating complex workflows, and transforming raw data into high-impact strategic decisions
-stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch, LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD
+          career: Data Science & AI
+          focus: Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Business Intelligence, ETL,
+                 Data Engineering, Workflow Automation, Advanced Analytics, NLP, Predictive Modeling
+          passion: Architecting intelligent data ecosystems, deploying scalable AI/ML solutions, automating complex workflows, and transforming raw data into                         high-impact strategic decisions
+          stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch,                          LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD
         </span>
       </td>
     </tr>
