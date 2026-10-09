@@ -57,6 +57,21 @@
   </table>
 </p>
 
+<p align="center">
+  <table align="center" style="background-color: #ffb6c1; border-radius: 8px; padding: 12px 16px;">
+    <tr>
+      <td align="left" style="background-color: #ffb6c1; border: none;">
+        <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; line-height: 1.6;">
+          ʚɞ <span style="color: #ff4081; font-weight: bold;">name:</span> <span style="color: #ffffff; font-style: italic;">Denise Gimenez</span><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff4081; font-weight: bold;">career:</span> <span style="color: #ffffff; font-style: italic;">Data Science & AI</span><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff4081; font-weight: bold;">focus:</span> <span style="color: #ffffff; font-style: italic;">Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Business Intelligence, ETL, Data Engineering, Workflow Automation, Advanced Analytics, NLP, Predictive Modeling</span><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff4081; font-weight: bold;">passion:</span> <span style="color: #ffffff; font-style: italic;">Architecting intelligent data ecosystems, deploying scalable AI/ML solutions, automating complex workflows, and transforming raw data into high-impact strategic decisions</span><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff4081; font-weight: bold;">stack:</span> <span style="color: #ffffff; font-style: italic;">Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch, LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD</span> ʚɞ
+        </span>
+      </td>
+    </tr>
+  </table>
+</p>
 ---
 
 
