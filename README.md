@@ -9,42 +9,34 @@
 <p align="center">
   <b>✦ Data Analyst & Data Science Student | Python • SQL • Power BI ✦ </b> 
 </p>
-<div align="center">
-
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-%23d83d73?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%23d83d73?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BIGQUERY-%23d83d73?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATABRICKS-%23d83d73?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPARK-%23d83d73?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PANDAS-%23d83d73?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUMPY-%23d83d73?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-F48FB1?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-F8BBD0?style=flat&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIGQUERY-F06292?style=flat&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATABRICKS-EC407A?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPARK-F48FB1?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-F8BBD0?style=flat&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/NUMPY-F06292?style=flat&logo=numpy&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/POWER%20BI-%23d83d73?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOOKER%20STUDIO-%23d83d73?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TABLEAU-%23d83d73?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/POWER%20APPS-%23d83d73?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCIKIT%20LEARN-%23d83d73?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-%23d83d73?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEEP%20LEARNING-%23d83d73?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-%23d83d73?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GEMINI%20IA-%23d83d73?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/N8N-%23d83d73?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-%23d83d73?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER%20BI-EC407A?style=flat&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOOKER%20STUDIO-F48FB1?style=flat&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TABLEAU-F8BBD0?style=flat&logo=tableau&logoColor=black" />
+  <img src="https://img.shields.io/badge/POWERAPPS-F06292?style=flat&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-EC407A?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEMINI%20IA-F48FB1?style=flat&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8N-F8BBD0?style=flat&logo=n8n&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EXCEL-%23d83d73?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/TANGO%20GESTI%C3%93N-%23d83d73?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-%23d83d73?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/TRELLO-%23d83d73?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-%23d83d73?style=for-the-badge&logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/WEB%20SCRAPING-%23d83d73?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXCEL-F06292?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TANGO%20GESTIÓN-EC407A?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F48FB1?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRELLO-F8BBD0?style=flat&logo=trello&logoColor=black" />
+  <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-F06292?style=flat&logo=googlesheets&logoColor=white" />
 </p>
 
-</div>
 ### 💻 *about me*
 
 <div style="background-color: #FCE4EC; padding: 16px; border-radius: 8px; color: #3A1F2D;">
