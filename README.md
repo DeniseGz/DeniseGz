@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-   ✦ Denise Gimenez ✦
+   ✦ Denu ✦
 </h2>
 
 <p align="center">
@@ -46,7 +46,7 @@
     <tr>
       <td align="left" style="background-color: #ffb6c1; border: none;">
         <span style="color: #ffffff; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; line-height: 1.6;">
-          <b> • name:</b> Denu <br>
+          <b> • name:</b> Denise Gimenez <br>
           <b> • career:</b> Data Science & AI<br>
           <b> • focus:</b> Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Business Intelligence, ETL, Data Engineering, Workflow Automation, Advanced Analytics, NLP, Predictive Modeling<br>
           <b> • passion:</b> Architecting intelligent data ecosystems, deploying scalable AI/ML solutions, automating complex workflows, and transforming raw data into high-impact strategic decisions<br>
