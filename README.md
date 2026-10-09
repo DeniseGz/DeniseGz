@@ -59,7 +59,7 @@ stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker
   <i>ʚɞ Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring. ʚɞ</i>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <img src="https://img.shields.io/badge/ʚɞ_*Your_brain_is_a_messy_kludge_of_evolved_heuristics,_not_a_truth--seeking_machine.*_ʚɞ-ffb6c1?style=for-the-badge&labelColor=ffb6c1&color=ffb6c1" alt="Quote">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40px">
+  <img src="https://img.shields.io/badge/ʚɞ_%20Your_brain_is_a_messy_kludge_of_evolved_heuristics,_not_a_truth--seeking_machine._If_you_want_to_get_closer_to_reality,_you_have_to_fight_your_own_wiring._ʚɞ-ffb6c1?style=for-the-badge&labelColor=ffb6c1&color=ffb6c1&logoColor=white" alt="Quote">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40px">
 </p>
