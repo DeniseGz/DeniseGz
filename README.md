@@ -41,7 +41,6 @@
 
 <div style="background-color: #FCE4EC; padding: 16px; border-radius: 8px; color: #3A1F2D;">
 
-```whoami
 <p align="center">
   <table align="center" style="background-color: #ffb6c1; border-radius: 8px; padding: 12px 16px;">
     <tr>
@@ -57,7 +56,6 @@
     </tr>
   </table>
 </p>
-```
 
 ---
 
