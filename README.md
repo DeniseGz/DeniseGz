@@ -55,3 +55,6 @@ stack: Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker
 <p align="center">
   <img src="https://img.shields.io/badge/ʚɞ_*Your_brain_is_a_messy_kludge_of_evolved_heuristics%2C_not_a_truth--seeking_machine.*_ʚɞ-ffb6c1?style=for-the-badge&labelColor=ffb6c1&color=ffb6c1" alt="Quote">
 </p>
+<p align="center">
+  <i>ʚɞ Your brain is a messy kludge of evolved heuristics, not a truth-seeking machine. If you want to get closer to reality, you have to fight your own wiring. ʚɞ</i>
+</p>
