@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <b>✦ Data Analyst & Data Science Student | Python • SQL • Power BI ✦ </b> 
+  <b>✦ Data Science & IA Advanced Student | Python • SQL • Power BI ✦ </b> 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-F48FB1?style=flat&logo=python&logoColor=white" />
