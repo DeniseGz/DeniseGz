@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-   ✦ Denise ✦
+   ✦ Denu ✦
 </h2>
 
 <p align="center">
