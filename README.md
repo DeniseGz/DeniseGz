@@ -50,7 +50,7 @@
           <b> • career:</b> Data Science & AI<br>
           <b> • focus:</b> Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Business Intelligence, ETL, Data Engineering, Workflow Automation, Advanced Analytics, NLP, Predictive Modeling<br>
           <b> • passion:</b> Architecting intelligent data ecosystems, deploying scalable AI/ML solutions, automating complex workflows, and transforming raw data into high-impact strategic decisions<br>
-          <b> • stack:</b> Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch, LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD, HTML5, CSS3, JavaScript
+          <b> • stack:</b> Python, SQL, BigQuery, Databricks, Spark, Pandas, NumPy, Power BI, Looker Studio, Tableau, Power Apps, Scikit-Learn, TensorFlow, PyTorch, LangChain, OpenAI APIs, Vector Databases, Web Scraping, Excel, Tango Gestion, Trello, Google Sheets, Git, Docker, CI/CD, HTML5, CSS3, JavaScript, GitHub Pages
         </span>
       </td>
     </tr>
